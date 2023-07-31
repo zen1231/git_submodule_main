@@ -1,0 +1,3 @@
+[submodule "git_submodule_other_repo"]
+	path = git_submodule_other_repo
+	url = https://github.com/zen1231/git_submodule_other_repo.git
